@@ -61,7 +61,7 @@
 <li> Triển khai xác thực, phân quyền người dùng </li>
 <li> Tối ưu giao diện người dùng (UI/UX)</li>
 </ul>
-<h3>📸 Giao diện dự án</h3>
+<h3>📸 Hoạt động dự án</h3>
 <p align="center">
   <a href="https://www.figma.com/design/LNrBbBAxoAam3rCgTQW9Ox/NH%C3%93M-8---QU%E1%BA%A2N-L%C3%9D-QTKD?node-id=54662-18013&t=MmynRCzLTT1e3w0V-1" alt=" link dự án">
     <img src="https://img.icons8.com/?size=48&id=8gfeOoqrHqJU&format=png&color=000000"/>
@@ -71,6 +71,9 @@
   </a>
   <a href="https://github.com/NguyenAnnThu/Nhom8QLQTKD/tree/main/image" alt="github">
    <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1cM9jWkCHQXi8L639KvjCS4KJpkhgPkoW/view?usp=sharing" alt="github">
+   <img src="https://img.icons8.com/?size=48&id=GXbDr_HC5ZF1&format=png&color=000000"/>
   </a>
 </p>
 <h4>Hình ảnh demo</h4>
