@@ -90,16 +90,5 @@
     </td>
   </tr>
 </table>
-<h2> 📫 How to reach me:</h2>
-<p align="center">
-  <a href="https://www.facebook.com/ann.thu.394686/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/NguyenAnnThu" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:annthu26112004@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+
 
