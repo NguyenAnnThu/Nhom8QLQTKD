@@ -36,20 +36,16 @@
 <h3>📖 Ngôn ngữ sử dụng</h3>
 <p align="center">
   <div>
-     <h5>🛠️Font-End</h5>
-    <ul>
-      <li>HTML: <img src="https://img.icons8.com/?size=28&id=aDQAeI8R62cC&format=png&color=000000"</li>
-      <li>CSS:<img src="https://img.icons8.com/?size=28&id=dEXTMmbBY2Ig&format=png&color=000000" </li>
-      <li>C#: <img src="https://img.icons8.com/?size=28&id=sxmSyN8MnPVD&format=png&color=000000"</li>
-        <li>JavaSript:<img src="https://img.icons8.com/?size=28&id=PXTY4q2Sq2lG&format=png&color=000000" </li>
-    </ul>
+     <h5>🛠️Font-End & Back-end</h5>
+    <p align="center">
+    <img src="https://img.icons8.com/?size=28&id=aDQAeI8R62cC&format=png&color=000000">
+     <img src="https://img.icons8.com/?size=28&id=dEXTMmbBY2Ig&format=png&color=000000" >
+       <img src="https://img.icons8.com/?size=28&id=sxmSyN8MnPVD&format=png&color=000000">
+      <img src="https://img.icons8.com/?size=28&id=PXTY4q2Sq2lG&format=png&color=000000" >
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="34px"/>
+    </p>
   </div>
-  <div>
-     <h5>🛠️Back-End</h5>
-    <ul>
-       <li> SqlServer:<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></li>
-    </ul>
-  </div>
+
 </p>
 <h3>👨‍💻 Vai trò của tôi</h3>
 <ul>
@@ -76,6 +72,7 @@
    <img src="https://img.icons8.com/?size=48&id=GXbDr_HC5ZF1&format=png&color=000000"/>
   </a>
 </p>
+
 <h4>Hình ảnh demo</h4>
 <table style="width:100%;">
   <tr>
