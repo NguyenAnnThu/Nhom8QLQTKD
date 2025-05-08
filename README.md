@@ -33,20 +33,65 @@
   <img src="https://img.icons8.com/?size=48&id=8gfeOoqrHqJU&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 </p>
-<h3>📖 Ngôn ngữ sử dụng</h3>
-<p align="center">
-  <div>
-     <h5>🛠️Font-End & Back-end</h5>
-    <p align="center">
-    <img src="https://img.icons8.com/?size=28&id=aDQAeI8R62cC&format=png&color=000000">
-     <img src="https://img.icons8.com/?size=28&id=dEXTMmbBY2Ig&format=png&color=000000" >
-       <img src="https://img.icons8.com/?size=28&id=sxmSyN8MnPVD&format=png&color=000000">
-      <img src="https://img.icons8.com/?size=28&id=PXTY4q2Sq2lG&format=png&color=000000" >
-      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="34px"/>
-    </p>
-  </div>
 
 </p>
+<h3>📸 Hoạt động dự án</h3>
+<table>
+  <th> Quy trình thực hiện</th>
+  <th> Ngôn ngữ sử dụng</th>
+  <th> Công cụ hỗ trợ</th>
+  <tr>
+    <td> Thu thập yêu cầu khách hàng </td>
+    <td>Tài liệu báo cáo</td>
+    <td> Word, Excel</td>
+  </tr>
+   <tr>
+    <td>Thiết kế cơ sở dữ liệu ở mức :
+      <ul>
+        <li> Khái niệm (ERD)</li>
+        <li>Logic (Sơ đồ quan hệ ít nhất ở dạng 2NF)</li>
+        <li> Thiết kế chi tiết các bảng</li>
+      </ul>
+    </td>
+    <td  align="center"> SQL</td>
+    <td> Draw.io,  SQL server</td>
+  </tr>
+  <tr>
+    <td>Xây dựng cơ sở dữ liệu
+        <ul>
+        <li> Tạo dữ liệu Dump cho các bảng </li>
+        <li>Tạo ít nhất 10 Module trong cơ sở dữ liệu để phục vụ các thao tác xử lý dữ liệu</li>
+      </ul>
+    </td>
+    <td  align="center"> SQL</td>
+    <td> SQL server</td>
+  </tr>
+ <tr>
+    <td>Xây dựng cơ chế bảo mật- Hạn chế tấn công SQL Injection </td>
+    <td  align="center"> SQL</td>
+    <td> SQL server</td>
+  </tr>
+  <tr>
+    <td>Xây dựng cơ chế Backup tự động </td>
+    <td  align="center"> SQL</td>
+    <td> SQL server</td>
+  </tr>
+    <tr>
+    <td>Phân quyền cho từng thành viên trong dự án</td>
+    <td  align="center"> SQL</td>
+    <td> SQL server, Azure</td>
+  </tr>
+   <tr>
+    <td>Thiết kế giao diện cho hệ thống</td>
+    <td  align="center"> HTML, CSS, JavaScript</td>
+    <td> Figma, Visual Studio</td>
+  </tr>
+   <tr>
+    <td>Kết hợp dữ liệu - Chạy thử nghiệm</td>
+    <td  align="center"> HTML, CSS, JavaScript, SQL</td>
+    <td> Figma, Visual Studio, SQL Server, Visual Studio Code</td>
+  </tr>
+</table>
 <h3>👨‍💻 Vai trò của tôi</h3>
 <ul>
 <li> Leader dự án: Lên ý tưởng, thiết kế sườn cho dự án </li>
@@ -57,21 +102,7 @@
 <li> Triển khai xác thực, phân quyền người dùng </li>
 <li> Tối ưu giao diện người dùng (UI/UX)</li>
 </ul>
-<h3>📸 Hoạt động dự án</h3>
-<p align="center">
-  <a href="https://www.figma.com/design/LNrBbBAxoAam3rCgTQW9Ox/NH%C3%93M-8---QU%E1%BA%A2N-L%C3%9D-QTKD?node-id=54662-18013&t=MmynRCzLTT1e3w0V-1" alt=" link dự án">
-    <img src="https://img.icons8.com/?size=48&id=8gfeOoqrHqJU&format=png&color=000000"/>
-   </a>
-  <a href="https://drive.google.com/drive/folders/1ke0oio1_UPk4Q7q5BMXCHrun3VOSaHxj?fbclid=IwY2xjawFKSrpleHRuA2FlbQIxMAABHTjvDkSRc5lVUD4F1fjuScQA8Jx_W3Ii6aal1lsVAJ_c950SKC3vYi5X7Q_aem_mxbme_Lfrqv3Zj9a_gOUhg" alt="driver">
-    <img src="https://img.icons8.com/?size=48&id=13630&format=png&color=000000">
-  </a>
-  <a href="https://github.com/NguyenAnnThu/Nhom8QLQTKD/tree/main/image" alt="github">
-   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1cM9jWkCHQXi8L639KvjCS4KJpkhgPkoW/view?usp=sharing" alt="github">
-   <img src="https://img.icons8.com/?size=48&id=GXbDr_HC5ZF1&format=png&color=000000"/>
-  </a>
-</p>
+
 
 <h4>Hình ảnh demo</h4>
 <table style="width:100%;">
